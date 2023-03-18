@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="seleccionar">Seleccione una Categoria</string>
+    <string name="imagen_mascota">Imagen de la Mascota</string>
+    <string name="perro">Perro</string>
+    <string name="aves">Aves</string>
+    <string name="gatos">Gatos</string>
+
+</resources>

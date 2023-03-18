@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="vistas">
+        <item>Perros</item>
+        <item>Gatos</item>
+        <item>Aves</item>
+    </string-array>
+    <string-array name="perros">
+        <item>Bulldog</item>
+        <item>Dalmata</item>
+        <item>Labrador</item>
+        <item>San Bernardo</item>
+        <item>Chow Chow</item>
+        <item>Husky</item>
+        <item>Pastor Aleman</item>
+        <item>Sharpei</item>
+        <item>Beagle</item>
+        <item>Poodle</item>
+    </string-array>
+    <string-array name="gatos">
+        <item>Angora Turco</item>
+        <item>Persa</item>
+        <item>Siames</item>
+        <item>Himalaya</item>
+        <item>Ragdoll</item>
+        <item>Snowshoe</item>
+        <item>Sphynx</item>
+        <item>Bengala</item>
+        <item>Burmés</item>
+        <item>Devon Rex</item>
+    </string-array>
+
+    <string-array name="aves">
+        <item>Agaporni</item>
+        <item>Canario</item>
+        <item>Guacamaya</item>
+        <item>Pato</item>
+        <item>Cacatua</item>
+        <item>Flamenco</item>
+        <item>Diamante</item>
+        <item>Loro</item>
+        <item>Periquito</item>
+        <item>Tucán</item>
+    </string-array>
+
+
+</resources>
